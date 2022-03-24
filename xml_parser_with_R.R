@@ -1,6 +1,0 @@
-library(xml2)
-library(tidyverse)
-library(XML)
-library("methods")
-library(RCurl)
-library(bitops)
